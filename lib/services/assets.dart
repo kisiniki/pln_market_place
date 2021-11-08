@@ -1,0 +1,43 @@
+//PNG
+const String backgroundHome = 'assets/images/background_Home.png';
+const String iconMenuTokenTagihan = 'assets/images/iconMenuToken&Tagihan.png';
+const String iconMenuPasangBaruListrik = 'assets/images/iconMenuPasangBaruListrik.png';
+const String iconMenuReportOutage = 'assets/images/iconMenuReportOutage.png';
+const String iconMenuSelfMatering = 'assets/images/iconMenuSelfMatering.png';
+const String iconMenuComplaintsSupport = 'assets/images/iconMenuComplaints&Support.png';
+const String iconMenuInfoStimulus = 'assets/images/iconMenuInfoStimulus.png';
+const String iconMenuSimulasiBiaya = 'assets/images/iconMenuSimulasiBiaya.png';
+const String iconMenuPemasanganSementara = 'assets/images/iconMenuPemasanganSementara.png';
+const String imageTulisanSPKLU = 'assets/images/image-tulisan-spklu.png';
+const String imageFindNearestStation= 'assets/images/image-nearest-station.png';
+const String imagePayAsYouUse = 'assets/images/image-pay-as-you-use.png';
+const String imageTransactionHistory= 'assets/images/image-transaction-history.png';
+const String icon3 = 'assets/images/icon3.png';
+const String iconCalendar = 'assets/images/icon-this-months.png';
+const String iconElectric = 'assets/images/icon-electric.png';
+const String imagePromotion = 'assets/images/image-promotion.png';
+const String iconBatteryElectrict = 'assets/images/icon-battery-electric.png';
+const String iconPartsAndServices = 'assets/images/icon-parts-and-services.png';
+const String iconEvMarkerplaces = 'assets/images/icon-evMarkerplaces.png';
+const String iconEvComunity = 'assets/images/icon-community.png';
+const String iconChargeText = 'assets/images/icon-charge-text.png';
+const String iconChargeBox = 'assets/images/icon-charge-box.png';
+const String iconConnector = 'assets/images/icon-connector.png';
+const String iconChargeColors = 'assets/images/icon-charges-colors.png';
+const String iconAvailable = 'assets/images/icon-available-charge.png';
+const String iconInUse = 'assets/images/icon-in-use-charge.png';
+const String iconUnderMaintenance = 'assets/images/icon-under-maintenance-charge.png';
+const String iconPromo = 'assets/images/icon-promo.png';
+const String dividerDraggableScroll = 'assets/images/dividerDraggableScroll.png';
+const String backgroundPembayaran = 'assets/images/background-pembayaran.png';
+const String imageLogoLinkAja = 'assets/images/image-logo-LinkAja.png';
+const String imageLogoGopay = 'assets/images/image-logo-gopay.png';
+const String imageLogoOvo = 'assets/images/image-logo-Ovo.png';
+const String iconRadioButton = 'assets/images/radio_button.png';
+
+//SVG
+const String iconMenuHome = 'assets/svg/iconMenuHome.svg';
+const String iconMenuActivity = 'assets/svg/iconMenuActivity.svg';
+const String iconMenuRewards = 'assets/svg/iconMenuRewards.svg';
+const String iconMenuMessage = 'assets/svg/iconMenuMessage.svg';
+const String iconMenuProfile = 'assets/svg/iconMenuProfile.svg';
